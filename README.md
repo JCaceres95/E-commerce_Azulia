@@ -48,3 +48,11 @@ PROYECTO_FINAL/
     buscar.py
     carrito.py
 
+## Cómo ejecutar el programa
+
+1. Asegúrate de tener instalado **Python 3** en tu computador.
+
+2. Abre una terminal o PowerShell y navega hasta la carpeta del proyecto, por ejemplo:
+
+   ```bash
+   cd RUTA/PROYECTO_FINAL
